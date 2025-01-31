@@ -15,6 +15,7 @@ const Prayers = () => {
         { val: "aswan", name: "اسوان" },
         { val: "suez", name: "السويس" },
         { val: "Qalyoubia", name: "القليوبية" },
+        { val: "Ismailia", name: "الإسماعيلية" },
     ];
 
     // عند تغيير المدينة، يتم استدعاء الـ API لعرض مواعيد الصلاة
